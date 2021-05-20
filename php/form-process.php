@@ -61,16 +61,14 @@ $body .= "Mensagem: ";
 $body .= $message;
 $body .= "\n";
 
-echo "teste1".$errorMSG;
+
 // send email
 $success = mail($emailTo, $subject, $body, $email);
 
-echo "teste2".$errorMSG;
 
 // redirect to success page
-if ($success && $errorMSG == ""){
+if ($success== true && $errorMSG == ""){
    echo "Sucesso";
-   header('Location: ../index.php');
 }else{
     if($errorMSG == ""){
         echo "Algo deu errado :(";
