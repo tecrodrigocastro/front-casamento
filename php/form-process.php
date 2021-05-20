@@ -39,11 +39,6 @@ if (empty($_POST["message"])) {
     $message = $_POST["message"];
 }
 
-echo $name;
-echo $email;
-echo $guest;
-echo $event;
-echo $message;
 
 $emailTo = "tec.rodrigocastro@gmail.com";
 $subject = "Confirmação de Presença";
@@ -67,7 +62,7 @@ $body .= $message;
 $body .= "\n";
 
 // send email
-$success = mail($emailTo, $subject, $body, "From:".$email);
+$success = mail($emailTo, $subject, $body, $email);
 
 // redirect to success page
 if ($success && $errorMSG == ""){
