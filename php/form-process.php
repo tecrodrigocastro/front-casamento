@@ -85,17 +85,13 @@ try {
       $mail-> setFrom($email);
       $email->setAddress($emailTo);
 
-      $mail->Subject = $subject;
-      $mail->Body = $body;
+      $mail->Subject = " ".$subject;
+      $mail->Body = " ".$body;
 
-      if ($mail->send() && $errorMSG == ""){
-        echo "Sucesso";
+      if ($mail->send()){
+        echo 'Sucesso';
      }else{
-         if($errorMSG == ""){
-             echo "Algo deu errado :(";
-         } else {
-             echo $errorMSG;
-         }
+         echo 'email n enviado';
      }
 
     
