@@ -39,11 +39,16 @@ if (empty($_POST["message"])) {
     $message = $_POST["message"];
 }
 
+echo $name;
+echo $email;
+echo $guest;
+echo $event;
+echo $message;
 
 $emailTo = "tec.rodrigocastro@gmail.com";
 $subject = "Confirmação de Presença";
 
-// prepare email body text
+// preparar o texto do corpo do e-mail
 $body = "";
 $body .= "Nome: ";
 $body .= $name;
