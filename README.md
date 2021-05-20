@@ -1,3 +1,6 @@
 # front-casamento
 Modelo de site feito sob encomenda.
-![alt](images/logo2.jpg)
+----------
+----------
+
+![alt](images/cap1.png)
