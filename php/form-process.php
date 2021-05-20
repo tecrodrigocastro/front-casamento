@@ -18,7 +18,7 @@ if (empty($_POST["email"])) {
 
 // MSG Guest
 if (empty($_POST["guest"])) {
-    $errorMSG .= "Assunto é obrigatório";
+    $errorMSG .= "Numero de convidados é obrigatório";
 } else {
     $guest = $_POST["guest"];
 }
@@ -26,7 +26,7 @@ if (empty($_POST["guest"])) {
 
 // MSG Event
 if (empty($_POST["event"])) {
-    $errorMSG .= "Assunto é obrigatório";
+    $errorMSG .= "Confirmação é obrigatório";
 } else {
     $event = $_POST["event"];
 }
