@@ -20,6 +20,11 @@ function submitForm(){
     var msg_subject = $("#msg_subject").val();
     var message = $("#message").val();
 
+console.log(name);
+console.log(email);
+console.log(guest);
+console.log(event);
+console.log(message);
 
     $.ajax({
         type: "POST",
