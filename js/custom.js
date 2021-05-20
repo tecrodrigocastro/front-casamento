@@ -51,9 +51,9 @@
 				preload: [0,1] // Will preload 0 - before current, and 1 after the current image
 			},
 			image: {
-				tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+				tError: '<a href="%url%">A imagem #%curr%</a> não carregou.',
 				titleSrc: function(item) {
-					return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+					return item.el.attr('title') + '<small>por Rodrigo Castro</small>';
 				}
 			}
 		});

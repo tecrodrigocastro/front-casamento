@@ -89,9 +89,9 @@ try {
       $mail->Body = " ".$body;
 
       if  ($mail->send()){
-        echo 'Sucesso';
+        echo 'Sucesso ao enviar';
      }else{
-         echo 'email n enviado';
+         echo 'Erro ao enviar';
      }
 
     
