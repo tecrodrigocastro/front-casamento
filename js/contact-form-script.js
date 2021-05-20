@@ -25,6 +25,7 @@ console.log(email);
 console.log(guest);
 console.log(event);
 console.log(message);
+console.log(msg_subject);
 
     $.ajax({
         type: "POST",
