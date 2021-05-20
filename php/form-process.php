@@ -67,12 +67,14 @@ $success = mail($emailTo, $subject, $body, $email);
 
 
 // redirect to success page
-if ($success && $errorMSG == ""){
+if ($success == false && $errorMSG == ""){
    echo "Sucesso";
-}else{ 
+}else{
+    if($errorMSG == ""){
         echo "Algo deu errado :(";
+    } else {
         echo $errorMSG;
-    
+    }
 }
 
 ?>
