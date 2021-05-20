@@ -40,29 +40,29 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "tec.rodrigocastro@gmail.com";
-$Subject = "Confirmação de Presença";
+$emailTo = "tec.rodrigocastro@gmail.com";
+$subject = "Confirmação de Presença";
 
 // prepare email body text
-$Body = "";
-$Body .= "Nome: ";
-$Body .= $name;
-$Body .= "\n";
-$Body .= "Email: ";
-$Body .= $email;
-$Body .= "\n";
-$Body .= "Quantidade: ";
-$Body .= $guest;
-$Body .= "\n";
-$Body .= "Presença?: ";
-$Body .= $event;
-$Body .= "\n";
-$Body .= "Mensagem: ";
-$Body .= $message;
-$Body .= "\n";
+$body = "";
+$body .= "Nome: ";
+$body .= $name;
+$body .= "\n";
+$body .= "Email: ";
+$body .= $email;
+$body .= "\n";
+$body .= "Quantidade: ";
+$body .= $guest;
+$body .= "\n";
+$body .= "Presença?: ";
+$body .= $event;
+$body .= "\n";
+$body .= "Mensagem: ";
+$body .= $message;
+$body .= "\n";
 
 // send email
-$success = mail($EmailTo, $Subject, $Body, "From:".$email);
+$success = mail($emailTo, $subject, $body, "From:".$email);
 
 // redirect to success page
 if ($success && $errorMSG == ""){

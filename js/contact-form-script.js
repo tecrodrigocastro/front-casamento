@@ -17,7 +17,6 @@ function submitForm(){
     var email = $("#email").val();
     var guest = $("#guest").val();
     var event = $("#event").val();
-    var msg_subject = $("#msg_subject").val();
     var message = $("#message").val();
 
 console.log(name);
@@ -25,7 +24,7 @@ console.log(email);
 console.log(guest);
 console.log(event);
 console.log(message);
-console.log(msg_subject);
+
 
     $.ajax({
         type: "POST",
