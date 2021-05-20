@@ -78,12 +78,12 @@ try {
       $mail->isSMTP();
       $mail->Host = 'smtp.gmail.com';
       $mail->SMTPAuth = true;
-      $mail->Username = 'tec.rodrigocastro@gmail.com';
-      $mail->Password = 'codeofsucess';
+      $mail->Username = 'confirmacaocasamentobd@gmail.com';
+      $mail->Password = '123ewq321qwe';
       $mail->Port = 587;
       
       $mail-> setFrom($email);
-      $email->setAddress($emailTo);
+      $mail->addAddress($emailTo);
 
       $mail->Subject = " ".$subject;
       $mail->Body = " ".$body;
