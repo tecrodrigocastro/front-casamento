@@ -3,4 +3,4 @@ Modelo de site feito sob encomenda.
 ----------
 ----------
 
-![alt](images/cap1.png)
+![alt](images/cap1.PNG)
