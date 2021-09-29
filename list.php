@@ -153,7 +153,7 @@
 						</div>
 						<h2>Geladeira Frost Free Duplex</h2>
 						<p>R$ 3.200,00 </p>
-						<a href="https://app.picpay.com/user/redrodrigoc/3200,00">Comprar ></a>
+						<a href="https://app.picpay.com/user/dpls/3200,00">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -163,7 +163,7 @@
 						</div>
 						<h2>Fogão de Embutir 5 Bocas</h2>
 						<p>R$ 1.500,00 </p>
-						<a href="https://app.picpay.com/user/redrodrigoc/1500,00">Comprar ></a>
+						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -173,7 +173,7 @@
 						</div>
 						<h2>Televisão 50”  </h2>
 						<p>R$ 2.300,00 </p>
-						<a href="https://app.picpay.com/user/redrodrigoc/2300,00">Comprar ></a>
+						<a href="https://app.picpay.com/user/dpls/2300,00">Comprar ></a>
 					</div>
 				</div>
 			</div>
