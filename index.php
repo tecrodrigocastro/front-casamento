@@ -322,9 +322,6 @@
 	</div>
 	<!-- End Gallery -->
 
-	<!-- Start Events -->
-	
-	<!-- End Events -->
 
 	<!-- Start Contact -->
 	<div id="contact" class="contact-box">

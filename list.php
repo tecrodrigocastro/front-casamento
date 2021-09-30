@@ -118,22 +118,6 @@
 	</div>
 	<!-- End Banner -->
 
-	<!-- Start About us -->
-
-	<!-- End About us -->
-
-	<!-- Start Story -->
-
-	<!-- End Story -->
-
-	<!-- Start Family 
-	
-	 End Family -->
-
-	<!-- Start Gallery -->
-	
-	<!-- End Gallery -->
-
 	<!-- Start Events -->
 	<div id="events" class="events-box">
 		<div class="container">
@@ -174,6 +158,36 @@
 						<h2>Televisão 50”  </h2>
 						<p>R$ 2.300,00 </p>
 						<a href="https://app.picpay.com/user/dpls/2300,00">Comprar ></a>
+					</div>
+				</div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/microondas.jpg" alt="" />
+						</div>
+						<h2>Microondas</h2>
+						<p>R$ 600,00 </p>
+						<a href="https://app.picpay.com/user/dpls/600,00">Comprar ></a>
+					</div>
+				</div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/sofa.jpg" alt="" />
+						</div>
+						<h2>Sofá</h2>
+						<p>R$ 2.500,00 </p>
+						<a href="https://app.picpay.com/user/dpls/2500,00">Comprar ></a>
+					</div>
+				</div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/cama.jpg" alt="" />
+						</div>
+						<h2>Cama de casal</h2>
+						<p>R$ 1.500,00 </p>
+						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
 					</div>
 				</div>
 			</div>
