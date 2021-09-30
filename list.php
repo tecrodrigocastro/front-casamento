@@ -190,6 +190,36 @@
 						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
 					</div>
 				</div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/air.jpg" alt="" />
+						</div>
+						<h2>Air Fryer</h2>
+						<p>R$ 500,00 </p>
+						<a href="https://app.picpay.com/user/dpls/500,00">Comprar ></a>
+					</div>
+				</div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/panelas.jpg" alt="" />
+						</div>
+						<h2>Conjunto de Panelas</h2>
+						<p>R$ 300,00 </p>
+						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+					</div>
+				</div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/mesajantar.jpg" alt="" />
+						</div>
+						<h2>Mesa de jantar 6 lugares</h2>
+						<p>R$ 1.500,00 </p>
+						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
