@@ -220,14 +220,302 @@
 						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
 					</div>
 				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/aparelhojantar.png" alt="" />
+						</div>
+						<h2>Aparelho de jantar</h2>
+						<p>R$ 350,00 </p>
+						<a href="https://app.picpay.com/user/dpls/350,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/liquidificador.jpg" alt="" />
+						</div>
+						<h2>Liquidificador</h2>
+						<p>R$ 150,00 </p>
+						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/jogocama.jpg" alt="" />
+						</div>
+						<h2>Jogo de Cama</h2>
+						<p>R$ 250,00 </p>
+						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/sanduicheira.jpg" alt="" />
+						</div>
+						<h2>Sanduicheira</h2>
+						<p>R$ 100,00 </p>
+						<a href="https://app.picpay.com/user/dpls/100,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/garrafa.png" alt="" />
+						</div>
+						<h2>Garrafa Térmica</h2>
+						<p>R$ 100,00 </p>
+						<a href="https://app.picpay.com/user/dpls/100,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/ferrodepassar.jpg" alt="" />
+						</div>
+						<h2>Ferro de Passar</h2>
+						<p>R$ 100,00 </p>
+						<a href="https://app.picpay.com/user/dpls/100,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/maquinadelavar.jpg" alt="" />
+						</div>
+						<h2>Máquina de Lavar</h2>
+						<p>R$ 1.400,00 </p>
+						<a href="https://app.picpay.com/user/dpls/1400,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/gelagua.jpg" alt="" />
+						</div>
+						<h2>Gelágua</h2>
+						<p>R$ 600,00 </p>
+						<a href="https://app.picpay.com/user/dpls/600,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/faqueiro.jpg" alt="" />
+						</div>
+						<h2>Faqueiro</h2>
+						<p>R$ 300,00 </p>
+						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/batedeira.jpg" alt="" />
+						</div>
+						<h2>Batedeira</h2>
+						<p>R$ 150,00 </p>
+						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/cafeteira.jpg" alt="" />
+						</div>
+						<h2>Cafeteira</h2>
+						<p>R$ 300,00 </p>
+						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/ventilador.jpg" alt="" />
+						</div>
+						<h2>Ventilador</h2>
+						<p>R$ 180,00 </p>
+						<a href="https://app.picpay.com/user/dpls/180,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/paineltv.jpg" alt="" />
+						</div>
+						<h2>Painel para TV</h2>
+						<p>R$ 700,00 </p>
+						<a href="https://app.picpay.com/user/dpls/700,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/conjuntotaca.jpg" alt="" />
+						</div>
+						<h2>Conj. de copos e taças</h2>
+						<p>R$ 300,00 </p>
+						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/travessas.jpg" alt="" />
+						</div>
+						<h2>Travessas</h2>
+						<p>R$ 150,00 </p>
+						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/utensilios.jpg" alt="" />
+						</div>
+						<h2>Conjunto de Utensílios</h2>
+						<p>R$ 150,00 </p>
+						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/conjcha.jpg" alt="" />
+						</div>
+						<h2>Conjunto de Chá</h2>
+						<p>R$ 150,00 </p>
+						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/jogolencol.jpg" alt="" />
+						</div>
+						<h2>Jogo de Lençol</h2>
+						<p>R$ 200,00 </p>
+						<a href="https://app.picpay.com/user/dpls/200,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/jogotoalha.jpg" alt="" />
+						</div>
+						<h2>Jogo de Toalha</h2>
+						<p>R$ 200,00 </p>
+						<a href="https://app.picpay.com/user/dpls/200,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/taubadepassar.jpg" alt="" />
+						</div>
+						<h2>Tábua de Passar Roupas</h2>
+						<p>R$ 220,00 </p>
+						<a href="https://app.picpay.com/user/dpls/220,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/guardaroupas.jpg" alt="" />
+						</div>
+						<h2>Guarda Roupas</h2>
+						<p>R$ 1.500,00 </p>
+						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/cabeceira.jpg" alt="" />
+						</div>
+						<h2>Cabeceira</h2>
+						<p>R$ 400,00 </p>
+						<a href="https://app.picpay.com/user/dpls/400,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/aspiradordepo.jpg" alt="" />
+						</div>
+						<h2>Aspirador de Pó</h2>
+						<p>R$ 250,00 </p>
+						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/tapete.jpg" alt="" />
+						</div>
+						<h2>Tapete</h2>
+						<p>R$ 250,00 </p>
+						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/cortina.jpg" alt="" />
+						</div>
+						<h2>Cortina</h2>
+						<p>R$ 250,00 </p>
+						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/armariocozinha.jpg" alt="" />
+						</div>
+						<h2>Armário de Cozinha</h2>
+						<p>R$ 1.200,00 </p>
+						<a href="https://app.picpay.com/user/dpls/1200,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/depurador.jpg" alt="" />
+						</div>
+						<h2>Depurador de Ar</h2>
+						<p>R$ 300,00 </p>
+						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/cafe.jpg" alt="" />
+						</div>
+						<h2>Conjunto de Café</h2>
+						<p>R$ 150,00 </p>
+						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/bandeja.jpg" alt="" />
+						</div>
+						<h2>Bandeja</h2>
+						<p>R$ 150,00 </p>
+						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 	<!-- End Events -->
 
-	<!-- Start Contact -->
 	
-	<!-- End Contact -->
 
 	<!-- Start Footer -->
 	<footer class="footer-box">
