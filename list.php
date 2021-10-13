@@ -79,34 +79,34 @@
 			<div class="row">
 				<div class="pogoSlider" id="js-main-slider">
 					<div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500"
-						style="background-image:url(images/slider-01.jpg);">
+						style="background-image:url(images/noivos/Image1.jpeg);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<h1>Bruna & Daniel</h1>
-								<h2>Nós vamos nos casar<h3>
-										<p>Reserve a data <strong> 20 Out 2021</strong></p>
+								
+										<p>Data: <strong> 04 Dez 2021</strong></p>
 										<a href="#contact" class="btn ">Confirmar</a>
 							</div>
 						</div>
 					</div>
 					<div class="pogoSlider-slide" data-transition="blocksReveal" data-duration="1500"
-						style="background-image:url(images/slider-02.jpg);">
+						style="background-image:url(images/noivos/Image8.jpeg);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<h1>Bruna & Daniel</h1>
-								<h2>Nós vamos nos casar<h3>
-										<p>Reserve a data <strong> 20 Out 2021</strong></p>
+								
+								<p>Data: <strong> 04 Dez 2021</strong></p>
 										<a href="#contact" class="btn ">Confirmar</a>
 							</div>
 						</div>
 					</div>
 					<div class="pogoSlider-slide" data-transition="shrinkReveal" data-duration="2000"
-						style="background-image:url(images/slider-03.jpg);">
+						style="background-image:url(images/noivos/Image9.jpeg);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<h1>Bruna & Daniel</h1>
-								<h2>Nós vamos nos casar<h3>
-										<p>Reserve a data <strong> 20 Out 2021</strong></p>
+								
+								<p>Data: <strong> 04 Dez 2021</strong></p>
 										<a href="#contact" class="btn ">Confirmar</a>
 							</div>
 						</div>

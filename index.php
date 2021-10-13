@@ -185,46 +185,9 @@
 				<span class="iconBackground"></span>
 				<div class="col-xs-12 col-md-6 align-left">
 					<div class="timeline-text-content">
-						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Primeiro Encontro</h4>
-						<p class="mbr-timeline-text mbr-fonts-style display-7">
-							Nós nos conhecemos no casamento de nossos amigos próximos e imediatamente encontramos uma
-							linguagem comum, então, um ano depois, nosso primeiro encontro aconteceu.
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="row timeline-element reverse separline">
-				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">
-					<div class="time-line-date-content">
-						<p class="mbr-timeline-date mbr-fonts-style display-font">
-							2 Abril de 2021
-						</p>
-					</div>
-				</div>
-				<span class="iconBackground"></span>
-				<div class="col-xs-12 col-md-6 align-right">
-					<div class="timeline-text-content">
-						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Inicio do namoro</h4>
-						<p class="mbr-timeline-text mbr-fonts-style display-7">
-							Texto ...
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="row timeline-element separline">
-				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">
-					<div class="time-line-date-content">
-						<p class="mbr-timeline-date mbr-fonts-style display-font">
-							1 Maio de 2021
-						</p>
-					</div>
-				</div>
-				<span class="iconBackground"></span>
-				<div class="col-xs-12 col-md-6 align-left">
-					<div class="timeline-text-content">
 						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Noivado</h4>
 						<p class="mbr-timeline-text mbr-fonts-style display-7">
-							Noivamos...
+						noivamos.
 						</p>
 					</div>
 				</div>
@@ -233,7 +196,7 @@
 				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">
 					<div class="time-line-date-content">
 						<p class="mbr-timeline-date mbr-fonts-style display-font">
-							20 Outubro de 2021
+							4 Dezembr0 de 2021
 						</p>
 					</div>
 				</div>
@@ -242,12 +205,13 @@
 					<div class="timeline-text-content">
 						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Casamento</h4>
 						<p class="mbr-timeline-text mbr-fonts-style display-7">
-							Casamos...
+							Casamos.
 						</p>
 					</div>
 				</div>
+			</div>	
 			</div>
-
+			</div>
 		</div>
 	</div>
 	<!-- End Story -->
