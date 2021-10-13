@@ -505,7 +505,7 @@
 						<div class="event-img">
 							<img class="img-fluid" src="images/presentes/bandeja.jpg" alt="" />
 						</div>
-						<h2>Bandeja</h2>
+						<h2>Bandeja inox</h2>
 						<p>R$ 150,00 </p>
 						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
 					</div>

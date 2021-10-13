@@ -79,34 +79,34 @@
 			<div class="row">
 				<div class="pogoSlider" id="js-main-slider">
 					<div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500"
-						style="background-image:url(images/slider-01.jpg);">
+						style="background-image:url(images/noivos/Image1.jpeg);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<h1>Bruna & Daniel</h1>
-								<h2>Nós vamos nos casar<h3>
-										<p>Reserve a data <strong> 20 Out 2021</strong></p>
+								
+										<p>Data: <strong> 04 Dez 2021</strong></p>
 										<a href="#contact" class="btn ">Confirmar</a>
 							</div>
 						</div>
 					</div>
 					<div class="pogoSlider-slide" data-transition="blocksReveal" data-duration="1500"
-						style="background-image:url(images/slider-02.jpg);">
+						style="background-image:url(images/noivos/Image8.jpeg);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<h1>Bruna & Daniel</h1>
-								<h2>Nós vamos nos casar<h3>
-										<p>Reserve a data <strong> 20 Out 2021</strong></p>
+								
+								<p>Data: <strong> 04 Dez 2021</strong></p>
 										<a href="#contact" class="btn ">Confirmar</a>
 							</div>
 						</div>
 					</div>
 					<div class="pogoSlider-slide" data-transition="shrinkReveal" data-duration="2000"
-						style="background-image:url(images/slider-03.jpg);">
+						style="background-image:url(images/noivos/Image9.jpeg);">
 						<div class="lbox-caption">
 							<div class="lbox-details">
 								<h1>Bruna & Daniel</h1>
-								<h2>Nós vamos nos casar<h3>
-										<p>Reserve a data <strong> 20 Out 2021</strong></p>
+								
+								<p>Data: <strong> 04 Dez 2021</strong></p>
 										<a href="#contact" class="btn ">Confirmar</a>
 							</div>
 						</div>
@@ -132,26 +132,27 @@
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12">
 						<div class="row align-items-center about-main-info">
-							<div class="col-lg-8 col-md-6 col-sm-12">
-								<h2> Sobre <span>Bruna</span></h2>
-								<p>Texto sobre, Texto sobre, Texto sobre, Texto sobre, Texto sobre, .
+							<div class="col-lg-5 col-md-6 col-sm-12">
+								<h2> Sobre <a href="https://www.instagram.com/brunamatosr/"><span>Bruna</span> </a></h2>
+								
 								</p>
 							</div>
 							<div class="col-lg-4 col-md-6 col-sm-12">
 								<div class="about-img">
-									<img class="img-fluid rounded" src="images/about-img-01.jpg" alt="" />
+								<a href="https://www.instagram.com/brunamatosr/"><img class="img-fluid rounded" src="images/noivos/bruna.jpeg" alt="" /> </a>
 								</div>
 							</div>
 						</div>
+						
 						<div class="row align-items-center about-main-info">
 							<div class="col-lg-4 col-md-6 col-sm-12">
 								<div class="about-img">
-									<img class="img-fluid rounded" src="images/about-img-02.jpg" alt="" />
+								<a href="https://www.instagram.com/danielpereira_lima/"><img class="img-fluid rounded" src="images/noivos/daniel.jpeg" alt="" /> </a>
 								</div>
 							</div>
 							<div class="col-lg-8 col-md-6 col-sm-12">
-								<h2> Sobre <span>Daniel</span></h2>
-								<p>Texto sobre, Texto sobre, Texto sobre, Texto sobre, Texto sobre, .
+								<h2> Sobre <a href="https://www.instagram.com/danielpereira_lima/"> <span>Daniel</span> </a></h2>
+								
 								</p>
 							</div>
 						</div>
@@ -251,10 +252,6 @@
 	</div>
 	<!-- End Story -->
 
-	<!-- Start Family 
-	
-	 End Family -->
-
 	<!-- Start Gallery -->
 	<div id="gallery" class="gallery-box">
 		<div class="container-fluid">
@@ -269,50 +266,56 @@
 			<div class="row">
 				<ul class="popup-gallery clearfix">
 					<li>
-						<a href="images/gallery-01.jpg">
-							<img class="img-fluid" src="images/gallery-01.jpg" alt="single image">
+						<a href="images/noivos/Image6.jpeg">
+							<img class="img-fluid" src="images/noivos/Image6.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/gallery-02.jpg">
-							<img class="img-fluid" src="images/gallery-02.jpg" alt="single image">
+						<a href="images/noivos/Image7.jpeg">
+							<img class="img-fluid" src="images/noivos/Image7.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/gallery-03.jpg">
-							<img class="img-fluid" src="images/gallery-03.jpg" alt="single image">
+						<a href="images/noivos/Image11.jpeg">
+							<img class="img-fluid" src="images/noivos/Image11.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/gallery-04.jpg">
-							<img class="img-fluid" src="images/gallery-04.jpg" alt="single image">
+						<a href="images/noivos/Image1.jpeg">
+							<img class="img-fluid" src="images/noivos/Image1.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/gallery-05.jpg">
-							<img class="img-fluid" src="images/gallery-05.jpg" alt="single image">
+						<a href="images/noivos/Image12.jpeg">
+							<img class="img-fluid" src="images/noivos/Image12.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/gallery-06.jpg">
-							<img class="img-fluid" src="images/gallery-06.jpg" alt="single image">
+						<a href="images/noivos/Image2.jpeg">
+							<img class="img-fluid" src="images/noivos/Image2.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/gallery-07.jpg">
-							<img class="img-fluid" src="images/gallery-07.jpg" alt="single image">
+						<a href="images/noivos/Image.jpeg">
+							<img class="img-fluid" src="images/noivos/Image.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
 					<li>
-						<a href="images/gallery-08.jpg">
-							<img class="img-fluid" src="images/gallery-08.jpg" alt="single image">
+						<a href="images/noivos/Image8.jpeg">
+							<img class="img-fluid" src="images/noivos/Image8.jpeg" alt="single image">
+							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
+						</a>
+					</li>
+					<li>
+						<a href="images/noivos/Image9.jpeg">
+							<img class="img-fluid" src="images/noivos/Image9.jpeg" alt="single image">
 							<span class="overlay"><i class="fa fa-heart-o" aria-hidden="true"></i></span>
 						</a>
 					</li>
@@ -330,7 +333,10 @@
 				<div class="col-lg-12">
 					<div class="title-box">
 						<h2>Confirme sua Presença</h2>
-						<p>Informações Adicionais... </p>
+						<p>Confirmar presença até o dia: <strong>10/11/2021 </strong></p>
+						<p><strong>Local:</strong> Sítio Prata- Caraúbas - <strong>Horário:</strong> 15:30</p>
+						<p><strong>Vestimenta:</strong> Esporte fino</p>
+
 					</div>
 				</div>
 			</div>
