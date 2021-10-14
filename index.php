@@ -178,16 +178,16 @@
 				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">
 					<div class="time-line-date-content">
 						<p class="mbr-timeline-date mbr-fonts-style display-font">
-							1 Março de 2021
+							5 Março de 2017
 						</p>
 					</div>
 				</div>
 				<span class="iconBackground"></span>
 				<div class="col-xs-12 col-md-6 align-left">
 					<div class="timeline-text-content">
-						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Noivado</h4>
+						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Namoro</h4>
 						<p class="mbr-timeline-text mbr-fonts-style display-7">
-						noivamos.
+						Começamos a namorar.
 						</p>
 					</div>
 				</div>
@@ -196,20 +196,38 @@
 				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">
 					<div class="time-line-date-content">
 						<p class="mbr-timeline-date mbr-fonts-style display-font">
-							4 Dezembr0 de 2021
+						5 Março de 2021
 						</p>
 					</div>
 				</div>
 				<span class="iconBackground"></span>
 				<div class="col-xs-12 col-md-6 align-right">
 					<div class="timeline-text-content">
-						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Casamento</h4>
+						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Noivado</h4>
 						<p class="mbr-timeline-text mbr-fonts-style display-7">
-							Casamos.
+							Noivamos.
 						</p>
 					</div>
 				</div>
 			</div>	
+			<div class="row timeline-element separline">
+				<div class="timeline-date-panel col-xs-12 col-md-6  align-left">
+					<div class="time-line-date-content">
+						<p class="mbr-timeline-date mbr-fonts-style display-font">
+							4 Dezembro de 2021
+						</p>
+					</div>
+				</div>
+				<span class="iconBackground"></span>
+				<div class="col-xs-12 col-md-6 align-left">
+					<div class="timeline-text-content">
+						<h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-font">Casamento</h4>
+						<p class="mbr-timeline-text mbr-fonts-style display-7">
+						Vamos casar.
+						</p>
+					</div>
+				</div>
+			</div>
 			</div>
 			</div>
 		</div>
