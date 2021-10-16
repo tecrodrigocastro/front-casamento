@@ -73,7 +73,7 @@ $body .= $message;
 $body .= "\n";
 
 try {
-      //$mail->SMTPDebug = SMTP::DEBUG_SERVER;
+      $mail->SMTPDebug = SMTP::DEBUG_SERVER;
       $mail->CharSet = 'UTF-8';
       $mail->isSMTP();
       $mail->Host = 'smtp.gmail.com';
@@ -81,7 +81,7 @@ try {
       $mail->Username = 'confirmacaocasamentobd@gmail.com';
       $mail->Password = '123ewq321qwe';
       $mail->Port = 587;
-      
+      //465 587
       $mail-> setFrom($email);
       $mail->addAddress($emailTo);
 
