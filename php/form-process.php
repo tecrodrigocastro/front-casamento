@@ -51,7 +51,7 @@ if (empty($_POST["message"])) {
 }
 
 
-$emailTo = "tec.rodrigocastro@gmail.com";
+$emailTo = "matosbruna146@gmail.com";
 $subject = "Confirmação de Presença";
 
 // preparar o texto do corpo do e-mail
@@ -73,7 +73,7 @@ $body .= $message;
 $body .= "\n";
 
 try {
-      $mail->SMTPDebug = SMTP::DEBUG_SERVER;
+      //$mail->SMTPDebug = SMTP::DEBUG_SERVER;
       $mail->CharSet = 'UTF-8';
       $mail->isSMTP();
       $mail->Host = 'smtp.gmail.com';

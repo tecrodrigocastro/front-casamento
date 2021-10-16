@@ -1,10 +1,10 @@
 $("#contactForm").validator().on("submit", function (event) {
     if (event.isDefaultPrevented()) {
-        // handle the invalid form...
+        //lidar com o formulário inválido...
         formError();
         submitMSG(false, "Você preencheu o formulário corretamente?");
     } else {
-        // everything looks good!
+        // tudo parece bem!
         event.preventDefault();
         submitForm();
     }
