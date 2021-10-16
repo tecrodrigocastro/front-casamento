@@ -51,7 +51,7 @@
 	<header class="top-header">
 		<nav class="navbar header-nav navbar-expand-lg">
 			<div class="container">
-				<a class="navbar-brand" href=""><img src="images/logo2.jpg" alt="image"></a>
+				<a class="navbar-brand" href=""><img src="images/11.jpg" alt="image"></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd"
 					aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
 					<span></span>

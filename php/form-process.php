@@ -81,7 +81,7 @@ try {
       $mail->Username = 'confirmacaocasamentobd@gmail.com';
       $mail->Password = '123ewq321qwe';
       $mail->Port = 587;
-      //465 587
+      //465 587 - portas do gmail disponiveis
       $mail-> setFrom($email);
       $mail->addAddress($emailTo);
 
