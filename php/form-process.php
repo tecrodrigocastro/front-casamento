@@ -73,7 +73,7 @@ $body .= $message;
 $body .= "\n";
 
 try {
-      //$mail->SMTPDebug = SMTP::DEBUG_SERVER;
+      $mail->SMTPDebug = SMTP::DEBUG_SERVER;
       $mail->CharSet = 'UTF-8';
       $mail->isSMTP();
       $mail->Host = 'smtp.gmail.com';
