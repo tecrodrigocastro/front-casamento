@@ -1,6 +1,6 @@
 <?php
 
-require('lib/vendor/autoload.php');
+//require('lib/vendor/autoload.php');
 
 $errorMSG = "";
 
@@ -68,9 +68,13 @@ $arquivo = "
   $headers .= "From: $name <$email>";
 
   //Enviar
-  mail($destino, $assunto, $arquivo, $headers);
-echo "Presença confirmada";
-  echo "<meta http-equiv='refresh' content='10;URL=../index.php'>";
+  if(mail($destino, $assunto, $arquivo, $headers)){
+    echo "Presença confirmada";
+  }else{
+      echo "Algo deu errado";
+  }
+   
+  
 
 
 
