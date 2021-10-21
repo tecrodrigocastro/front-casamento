@@ -51,7 +51,7 @@ if (empty($_POST["message"])) {
 }
 
 //matosbruna146@gmail.com
-$emailTo = "tec.rodrigocastro@gmail.com";
+$emailTo = "matosbruna146@gmail.com";
 $subject = "Confirmação de Presença";
 
 // preparar o texto do corpo do e-mail
@@ -85,7 +85,7 @@ try {
       $mail-> setFrom($email);
       $mail->addAddress($emailTo);
 
-      $mail->Subject = " ".$subject;
+      $mail->Subject = " ".$subject;    
       $mail->Body = " ".$body;
 
       if  ($mail->send()){
