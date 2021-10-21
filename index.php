@@ -308,60 +308,6 @@
 	
 	<!-- End Gallery -->
 
-	<?php
-	//$name = $_POST["name"];
-	//$email2 = $_POST["email"];
-	//$guest = $_POST["guest"];
-	//$event = $_POST["event"];
-	//$message = $_POST["message"];
-	$errorMSG = "";
-	$dados = filter_input_array(INPUT_POST, FILTER_DEFAULT);
-	//var_dump($dados);
-	if ($dados['submit'] != "") {
-		
-		var_dump($dados);
-		require('lib/vendor/autoload.php');
-	
-		 $email = new \SendGrid\Mail\Mail();
-	
-		 $email->setFrom("confirmacaocasamentobd@gmail.com", "teste dados");
-		 $email->setSubject("Como enviar e-mail com Sendgrind");
-		 $email->addTo("reddyrodrigo@gmail.com", "Celke");
-		 $email->addContent("text/plain", "Conteúdo somente texto");
-		 $email->addContent(
-			 "text/html", "Ola Bruna, <br> <br> Confirmação de presença: <br> <br> 
-			 Nome:" .$dados['name'] . "<br>
-			 Email:" .$dados['email']." <br>
-			 Numero de convidados:" .$dados['guest']." <br>
-			 Vai ao casamento?:" .$dados['event']." <br>
-			 Mensagem deixada:" .$dados['message']."
-			 "
-		 );
-		 
-		 $sendgrid = new \SendGrid('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');
-		 
-		 try {
-			 $response = $sendgrid->send($email);
-			 echo "Confirmação enviada com sucesso teste!<br>";
-			 print $response->statusCode() ."\n";
-			 //print_r($response->headers());
-			 //print $response->body() . "\n";
-			
-		 } catch (Exception $e) {
-			 //echo 'Caught exception: '. $e->getMessage() ."\n";
-			 echo "Erro: Mensagem não enviada com sucesso!<br>";
-		 }
-		
-		
-	 }else{
-		
-	
-	 }
-	
-	
-?>
-
-
 	<!-- Start Contact -->
 	<div id="contact" class="contact-box">
 		<div class="container">
@@ -379,60 +325,14 @@
 			<div class="row">
 				<div class="col-lg-12 col-sm-12 col-xs-12">
 					<div class="contact-block">
-				
-					
-						<form  id="contactForm">
-							<div class="row">
-								<div class="col-md-6">
-									<div class="form-group">
-										<input type="text" class="form-control" id="name" name="name"
-											placeholder="Seu Nome" required data-error="Por favor, insira seu nome">
-										<div class="help-block with-errors"></div>
-									</div>
-								</div>
-								<br>
-								<div class="col-md-6">
-									<div class="form-group">
-										<input type="text" placeholder="Seu E-mail" id="email" class="form-control"
-											name="email" required data-error="Por favor, insira seu email">
-										<div class="help-block with-errors"></div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="form-group">
-										<select class="custom-select d-block form-control" id="guest" name="guest" required
-											data-error="Selecione um item da lista.">
-											<option disabled selected>Numero de convidados</option>
-											<option value="1">1</option>
-											<option value="2">2</option>
-											<option value="3">3</option>
-											<option value="4">4</option>
-											<option value="5">5</option>
-										</select>
-										<div class="help-block with-errors"></div>
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="form-group">
-										<select class="custom-select d-block form-control" id="event" name="event" required
-											data-error="Selecione um item da lista.">
-											<option disabled selected>Você irá ao evento?</option>
-											<option value="Sim">Sim</option>
-											<option value="Não">Não</option>
-										</select>
 
-										<div class="help-block with-errors"></div>
-									</div>
-								</div>
+						<form>
+							<div class="row">
 								<div class="col-md-12">
-									<div class="form-group">
-										<textarea class="form-control" id="message" name="message" placeholder="Deixe uma mensagem"
-											rows="8" data-error="Escreva sua mensagem" required></textarea>
-										<div class="help-block with-errors"></div>
-									</div>
+									
 									<div class="submit-button text-center">
-										<button class="btn btn-common" id="submit" name="submit" type="submit">Enviar
-											mensagem</button>
+										<a href='https://api.whatsapp.com/send?phone=5585991546543&text=Confirma%20presen%C3%A7a%3F%20_responda%20com%20*sim%20ou%20n%C3%A3o*_%2C%20se%20sim%20quantos%20convidados%20levaria%3F'>
+										<button class="btn btn-common" id="submit" name="submit" type="button">Confirmar</button></a>
 										<div id="msgSubmit" class="h3 text-center hidden"></div>
 										<div class="clearfix"></div>
 									</div>
