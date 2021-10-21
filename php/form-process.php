@@ -3,7 +3,9 @@
 require_once('../src/PHPMailer.php');
 require_once('../src/SMTP.php');
 require_once('../src/Exception.php');
+require_once('../mailer/vendor/autoload.php');
 
+//require 'mailer/vendor/autoload.php';
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
@@ -56,7 +58,7 @@ $subject = "Confirmação de Presença";
 
 // preparar o texto do corpo do e-mail
 $body = "";
-$body .= "Nome: ";
+$body .= "Nome:  ";
 $body .= $name;
 $body .= "\n";
 $body .= "Email: ";
