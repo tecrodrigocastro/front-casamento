@@ -305,7 +305,61 @@
 			</div>
 		</div>
 	</div>
+	
 	<!-- End Gallery -->
+
+	<?php
+	//$name = $_POST["name"];
+	//$email2 = $_POST["email"];
+	//$guest = $_POST["guest"];
+	//$event = $_POST["event"];
+	//$message = $_POST["message"];
+	$errorMSG = "";
+	$dados = filter_input_array(INPUT_POST, FILTER_DEFAULT);
+	//var_dump($dados);
+	if ($dados['submit'] != "") {
+		
+		var_dump($dados);
+		require('lib/vendor/autoload.php');
+	
+		 $email = new \SendGrid\Mail\Mail();
+	
+		 $email->setFrom("confirmacaocasamentobd@gmail.com", "teste dados");
+		 $email->setSubject("Como enviar e-mail com Sendgrind");
+		 $email->addTo("reddyrodrigo@gmail.com", "Celke");
+		 $email->addContent("text/plain", "Conteúdo somente texto");
+		 $email->addContent(
+			 "text/html", "Ola Bruna, <br> <br> Confirmação de presença: <br> <br> 
+			 Nome:" .$dados['name'] . "<br>
+			 Email:" .$dados['email']." <br>
+			 Numero de convidados:" .$dados['guest']." <br>
+			 Vai ao casamento?:" .$dados['event']." <br>
+			 Mensagem deixada:" .$dados['message']."
+			 "
+		 );
+		 
+		 $sendgrid = new \SendGrid('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');
+		 
+		 try {
+			 $response = $sendgrid->send($email);
+			 echo "Confirmação enviada com sucesso teste!<br>";
+			 print $response->statusCode() ."\n";
+			 //print_r($response->headers());
+			 //print $response->body() . "\n";
+			
+		 } catch (Exception $e) {
+			 //echo 'Caught exception: '. $e->getMessage() ."\n";
+			 echo "Erro: Mensagem não enviada com sucesso!<br>";
+		 }
+		
+		
+	 }else{
+		
+	
+	 }
+	
+	
+?>
 
 
 	<!-- Start Contact -->
@@ -325,7 +379,9 @@
 			<div class="row">
 				<div class="col-lg-12 col-sm-12 col-xs-12">
 					<div class="contact-block">
-						<form id="contactForm">
+				
+					
+						<form  id="contactForm">
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">

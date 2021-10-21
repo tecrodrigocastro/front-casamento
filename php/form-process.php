@@ -51,7 +51,7 @@ if (empty($_POST["message"])) {
 }
 
 //matosbruna146@gmail.com
-$emailTo = "matosbruna146@gmail.com";
+$emailTo = "tec.rodrigocastro@gmail.com";
 $subject = "Confirmação de Presença";
 
 // preparar o texto do corpo do e-mail
