@@ -28,7 +28,7 @@ console.log(message);
 
     $.ajax({
         type: "POST",
-        url: "sendgrid.php",
+        url: "php/form-process.php",
         data: "name=" + name + "&email=" + email + "&guest=" + guest + "&event=" + event +  "&message=" + message,
         success : function(text){
             if (text == "success"){
