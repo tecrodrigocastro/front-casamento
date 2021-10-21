@@ -420,7 +420,7 @@
 						</div>
 						<h2>Tábua de Passar Roupas</h2>
 						<p>R$ 220,00 </p>
-						<a href="https://app.picpay.com/user/dpls/220,00">Comprar ></a>
+						<h2><strong>Esse presente já foi comprado</strong></h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
