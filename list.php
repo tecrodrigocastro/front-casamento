@@ -563,6 +563,16 @@
 						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
 					</div>
 				</div>
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="event-inner">
+						<div class="event-img">
+							<img class="img-fluid" src="images/presentes/cortina.jpg" alt="" />
+						</div>
+						<h2>PRODUTO TESTE</h2>
+						<p>R$ 250,00 </p>
+						<a href="https://app.picpay.com/user/dpls/1,00">Comprar ></a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
