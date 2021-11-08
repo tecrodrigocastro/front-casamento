@@ -569,7 +569,7 @@
 							<img class="img-fluid" src="images/presentes/cortina.jpg" alt="" />
 						</div>
 						<h2>PRODUTO TESTE</h2>
-						<p>R$ 250,00 </p>
+						<p>R$ 1,00 </p>
 						<a href="https://app.picpay.com/user/dpls/1,00">Comprar ></a>
 					</div>
 				</div>
