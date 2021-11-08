@@ -270,7 +270,7 @@
 						</div>
 						<h2>Garrafa Térmica</h2>
 						<p>R$ 100,00 </p>
-						<a href="https://app.picpay.com/user/dpls/100,00">Comprar ></a>
+						<h2><strong>Esse presente já foi comprado</strong></h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -563,16 +563,7 @@
 						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-6 col-sm-12">
-					<div class="event-inner">
-						<div class="event-img">
-							<img class="img-fluid" src="images/presentes/cortina.jpg" alt="" />
-						</div>
-						<h2>PRODUTO TESTE</h2>
-						<p>R$ 1,00 </p>
-						<a href="https://app.picpay.com/user/dpls/1,00">Comprar ></a>
-					</div>
-				</div>
+				
 			</div>
 		</div>
 	</div>
