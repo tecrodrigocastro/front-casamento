@@ -125,7 +125,7 @@
 				<div class="col-lg-12">
 					<div class="title-box">
 						<h2>Nossa lista de presentes</h2>
-						<p>Compre nossos presentes através do aplicativo <strong>Picpay</strong> e realize nossos sonhos</p>
+						<p>Clique no botão e será redirecionado para o <strong>WhatsApp</strong></p>
 						<p> ou pelo PIX: <strong>depassessoria@outlook.com</strong></p>
 						<p><strong>*Imagens meramente ilustrativas*</strong></p>
 
