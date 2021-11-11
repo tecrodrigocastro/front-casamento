@@ -140,7 +140,7 @@
 						</div>
 						<h2>Geladeira Frost Free Duplex</h2>
 						<p>R$ 3.200,00 </p>
-						<a href="https://app.picpay.com/user/dpls/3200,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Geladeira%20valor%3A%20R%24%203200">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -150,7 +150,7 @@
 						</div>
 						<h2>Fogão de Embutir 5 Bocas</h2>
 						<p>R$ 1.500,00 </p>
-						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Fogao%20valor%3A%20R%24%201500">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -160,7 +160,7 @@
 						</div>
 						<h2>Televisão 50”  </h2>
 						<p>R$ 2.300,00 </p>
-						<a href="https://app.picpay.com/user/dpls/2300,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Televisao%20valor%3A%20R%24%202300">Comprar ></a>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -170,7 +170,7 @@
 						</div>
 						<h2>Microondas</h2>
 						<p>R$ 600,00 </p>
-						<a href="https://app.picpay.com/user/dpls/600,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Microondas%20valor%3A%20R%24%20600">Comprar ></a>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -180,7 +180,7 @@
 						</div>
 						<h2>Sofá</h2>
 						<p>R$ 2.500,00 </p>
-						<a href="https://app.picpay.com/user/dpls/2500,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Sofa%20valor%3A%20R%24%202500">Comprar ></a>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -190,7 +190,7 @@
 						</div>
 						<h2>Cama de casal</h2>
 						<p>R$ 1.500,00 </p>
-						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Cama%20valor%3A%20R%24%201500">Comprar ></a>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -200,7 +200,7 @@
 						</div>
 						<h2>Air Fryer</h2>
 						<p>R$ 500,00 </p>
-						<a href="https://app.picpay.com/user/dpls/500,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Air%20Fryer%20valor%3A%20R%24%20500">Comprar ></a>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -210,7 +210,7 @@
 						</div>
 						<h2>Conjunto de Panelas</h2>
 						<p>R$ 300,00 </p>
-						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Panelas%20valor%3A%20R%24%20300">Comprar ></a>
 					</div>
 				</div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -220,7 +220,7 @@
 						</div>
 						<h2>Mesa de jantar 6 lugares</h2>
 						<p>R$ 1.500,00 </p>
-						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Mesa%20Janta%20valor%3A%20R%24%201500">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -230,7 +230,7 @@
 						</div>
 						<h2>Aparelho de jantar</h2>
 						<p>R$ 350,00 </p>
-						<a href="https://app.picpay.com/user/dpls/350,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Aparelho%20Jantar%20valor%3A%20R%24%20350">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -240,7 +240,7 @@
 						</div>
 						<h2>Liquidificador</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+						<h2><strong>Esse presente já foi comprado</strong></h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -250,7 +250,7 @@
 						</div>
 						<h2>Jogo de Cama</h2>
 						<p>R$ 250,00 </p>
-						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Jogo%20Cama%20valor%3A%20R%24%20250">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -280,7 +280,7 @@
 						</div>
 						<h2>Ferro de Passar</h2>
 						<p>R$ 100,00 </p>
-						<a href="https://app.picpay.com/user/dpls/100,00">Comprar ></a>
+						<h2><strong>Esse presente já foi comprado</strong></h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -290,7 +290,7 @@
 						</div>
 						<h2>Máquina de Lavar</h2>
 						<p>R$ 1.400,00 </p>
-						<a href="https://app.picpay.com/user/dpls/1400,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Maquina%20Lavar%20valor%3A%20R%24%201400">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -300,7 +300,7 @@
 						</div>
 						<h2>Gelágua</h2>
 						<p>R$ 600,00 </p>
-						<a href="https://app.picpay.com/user/dpls/600,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Gelagua%20valor%3A%20R%24%20600">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -310,7 +310,7 @@
 						</div>
 						<h2>Faqueiro</h2>
 						<p>R$ 300,00 </p>
-						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Faqueiro%20valor%3A%20R%24%20300">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -320,7 +320,7 @@
 						</div>
 						<h2>Batedeira</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Batedeira%20valor%3A%20R%24%20150">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -330,7 +330,7 @@
 						</div>
 						<h2>Cafeteira</h2>
 						<p>R$ 300,00 </p>
-						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Cafeteira%20valor%3A%20R%24%20300">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -340,7 +340,7 @@
 						</div>
 						<h2>Ventilador</h2>
 						<p>R$ 180,00 </p>
-						<a href="https://app.picpay.com/user/dpls/180,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Ventilador%20valor%3A%20R%24%20180">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -350,7 +350,7 @@
 						</div>
 						<h2>Painel para TV</h2>
 						<p>R$ 700,00 </p>
-						<a href="https://app.picpay.com/user/dpls/700,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Painel%20Tv%20valor%3A%20R%24%20700">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -360,7 +360,7 @@
 						</div>
 						<h2>Conj. de copos e taças</h2>
 						<p>R$ 300,00 </p>
-						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Conj%20Copos%20tacas%20valor%3A%20R%24%20300">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -370,7 +370,7 @@
 						</div>
 						<h2>Travessas</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+						<h2><strong>Esse presente já foi comprado</strong></h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -380,7 +380,7 @@
 						</div>
 						<h2>Conjunto de Utensílios</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Conj%20Utensilios%20valor%3A%20R%24%20150">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -390,7 +390,7 @@
 						</div>
 						<h2>Conjunto de Chá</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Conjunto%20Cha%20valor%3A%20R%24%20150">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -400,7 +400,7 @@
 						</div>
 						<h2>Jogo de Lençol</h2>
 						<p>R$ 200,00 </p>
-						<a href="https://app.picpay.com/user/dpls/200,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Jogo%20Lencol%20valor%3A%20R%24%20200">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -410,7 +410,7 @@
 						</div>
 						<h2>Jogo de Toalha</h2>
 						<p>R$ 200,00 </p>
-						<a href="https://app.picpay.com/user/dpls/200,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Jogo%20Toalha%20valor%3A%20R%24%20200">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -430,7 +430,7 @@
 						</div>
 						<h2>Guarda Roupas</h2>
 						<p>R$ 1.500,00 </p>
-						<a href="https://app.picpay.com/user/dpls/1500,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Guarda%20Roupas%20valor%3A%20R%24%201500">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -440,7 +440,7 @@
 						</div>
 						<h2>Cabeceira</h2>
 						<p>R$ 400,00 </p>
-						<a href="https://app.picpay.com/user/dpls/400,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Cabeceira%20valor%3A%20R%24%20400">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -450,7 +450,7 @@
 						</div>
 						<h2>Aspirador de Pó</h2>
 						<p>R$ 250,00 </p>
-						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Aspirador%20valor%3A%20R%24%20250">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -460,7 +460,7 @@
 						</div>
 						<h2>Tapete</h2>
 						<p>R$ 250,00 </p>
-						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Tapete%20valor%3A%20R%24%20250">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -470,7 +470,7 @@
 						</div>
 						<h2>Cortina</h2>
 						<p>R$ 250,00 </p>
-						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Cortina%20valor%3A%20R%24%20250">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -480,7 +480,7 @@
 						</div>
 						<h2>Armário de Cozinha</h2>
 						<p>R$ 1.200,00 </p>
-						<a href="https://app.picpay.com/user/dpls/1200,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Armario%20Cozinha%20valor%3A%20R%24%201200">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -490,7 +490,7 @@
 						</div>
 						<h2>Depurador de Ar</h2>
 						<p>R$ 300,00 </p>
-						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Depurador%20Ar%20valor%3A%20R%24%20300">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -500,7 +500,7 @@
 						</div>
 						<h2>Conjunto de Café</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Conj%20Cafe%20valor%3A%20R%24%20150">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -510,7 +510,7 @@
 						</div>
 						<h2>Bandeja inox</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://app.picpay.com/user/dpls/150,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Bandeja%20Inox%20valor%3A%20R%24%20150">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -520,7 +520,7 @@
 						</div>
 						<h2>Conjunto de Panelas</h2>
 						<p>R$ 300,00 </p>
-						<a href="https://app.picpay.com/user/dpls/300,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Conj%20Panelas%20valor%3A%20R%24%20300">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -530,7 +530,7 @@
 						</div>
 						<h2>Aparelho de jantar</h2>
 						<p>R$ 350,00 </p>
-						<a href="https://app.picpay.com/user/dpls/350,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Aparelho%20Jantar%20valor%3A%20R%24%20350">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -540,7 +540,7 @@
 						</div>
 						<h2>Jogo de Cama</h2>
 						<p>R$ 250,00 </p>
-						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Jogo%20Cama%20valor%3A%20R%24%20250">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -550,7 +550,7 @@
 						</div>
 						<h2>Jogo de Toalha</h2>
 						<p>R$ 200,00 </p>
-						<a href="https://app.picpay.com/user/dpls/200,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Jogo%20Toalha%20valor%3A%20R%24%20200">Comprar ></a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -560,7 +560,7 @@
 						</div>
 						<h2>Cortina</h2>
 						<p>R$ 250,00 </p>
-						<a href="https://app.picpay.com/user/dpls/250,00">Comprar ></a>
+						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Presente%3A%20Cortina%20valor%3A%20R%24%20250">Comprar ></a>
 					</div>
 				</div>
 				
