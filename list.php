@@ -500,7 +500,7 @@
 						</div>
 						<h2>Conjunto de Café</h2>
 						<p>R$ 150,00 </p>
-						<a href="https://api.whatsapp.com/send?phone=5585991958171&text=Solicite%20o%20link%20pelo%20WhatsApp!%20Voc%C3%AA%20pode%20parcelar%20at%C3%A9%2012x">Comprar ></a>
+						<h2><strong>Esse presente já foi comprado</strong></h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
