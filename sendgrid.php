@@ -60,7 +60,7 @@ $arquivo = "
   
   //Emails para quem será enviado o formulário
   $destino = "reddyrodrigo@gmail.com";
-  $assunto = "Confirmação de Presença";
+  $assunto = "Confirmação de Presença a";
 
   //Este sempre deverá existir para garantir a exibição correta dos caracteres
  // $headers  = "MIME-Version: 1.0\n";
